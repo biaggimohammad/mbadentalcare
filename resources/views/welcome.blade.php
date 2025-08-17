@@ -726,7 +726,7 @@
                     <div class="col-md-6 col-lg-2" data-aos="zoom-in" data-aos-delay="200">
                         <div class="team-card">
                             <div class="team-image">
-                                <img src="{{ asset('/landingpage/assets/img/person/dr23.jpg') }}" class="img-fluid"
+                                <img src="{{ asset('/public/landingpage/assets/img/person/dr23.jpg') }}" class="img-fluid"
                                     alt="">
                                 <div class="team-overlay">
                                     <p><b>Gunung Anyar : Sabtu</b></p>
