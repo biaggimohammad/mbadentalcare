@@ -741,7 +741,7 @@
                     <div class="col-md-6 col-lg-2" data-aos="zoom-in" data-aos-delay="200">
                         <div class="team-card">
                             <div class="team-image">
-                                <img src="{{ asset('/landingpage/assets/img/person/dr19.jpg') }}" class="img-fluid"
+                                <img src="{{ asset('/public/landingpage/assets/img/person/dr19.jpg') }}" class="img-fluid"
                                     alt="">
                                 <div class="team-overlay">
                                     <p><b>Gunung Anyar : Senin, Selasa<br>Jagiran : Sabtu, Minggu</b></p>
@@ -756,7 +756,7 @@
                     <div class="col-md-6 col-lg-2" data-aos="zoom-in" data-aos-delay="200">
                         <div class="team-card">
                             <div class="team-image">
-                                <img src="{{ asset('/landingpage/assets/img/person/dr21.jpg') }}" class="img-fluid"
+                                <img src="{{ asset('/public/landingpage/assets/img/person/dr21.jpg') }}" class="img-fluid"
                                     alt="">
                                 <div class="team-overlay">
                                     <p><b>Sukodono : Kamis, Minggu</b></p>
@@ -771,7 +771,7 @@
                     <div class="col-md-6 col-lg-2" data-aos="zoom-in" data-aos-delay="200">
                         <div class="team-card">
                             <div class="team-image">
-                                <img src="{{ asset('/landingpage/assets/img/person/dr18.jpg') }}" class="img-fluid"
+                                <img src="{{ asset('/public/landingpage/assets/img/person/dr18.jpg') }}" class="img-fluid"
                                     alt="">
                                 <div class="team-overlay">
                                     <p><b>Sukodono : Senin, Minggu</b></p>
@@ -786,7 +786,7 @@
                     <div class="col-md-6 col-lg-2" data-aos="zoom-in" data-aos-delay="200">
                         <div class="team-card">
                             <div class="team-image">
-                                <img src="{{ asset('/landingpage/assets/img/person/dr22.jpg') }}" class="img-fluid"
+                                <img src="{{ asset('/public/landingpage/assets/img/person/dr22.jpg') }}" class="img-fluid"
                                     alt="">
                                 <div class="team-overlay">
                                     <p><b>Sukodono : Rabu, Jumat, Sabtu</b></p>
@@ -801,7 +801,7 @@
                     <div class="col-md-6 col-lg-2" data-aos="zoom-in" data-aos-delay="200">
                         <div class="team-card">
                             <div class="team-image">
-                                <img src="{{ asset('/landingpage/assets/img/person/dr20.jpg') }}" class="img-fluid"
+                                <img src="{{ asset('/public/landingpage/assets/img/person/dr20.jpg') }}" class="img-fluid"
                                     alt="">
                                 <div class="team-overlay">
                                     <p><b>Sukodono : Senin, Selasa, Jumat, Sabtu</b></p>
